@@ -4,7 +4,7 @@
 
 Name:    lmbench
 Version: 3.0
-Release: %mkrel 0.%{tar_release}.2
+Release: %mkrel 0.%{tar_release}.3
 Summary: Tools for Kernel Performance Analysis
 License: GPL
 URL:	 http://sourceforge.net/projects/lmbench
