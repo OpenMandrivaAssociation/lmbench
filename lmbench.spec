@@ -53,3 +53,19 @@ rm -rf %{buildroot}
 %doc ACKNOWLEDGEMENTS CHANGES COPYING COPYING-2 hbench-REBUTTAL README.* TODO.* doc/
 %{_bindir}/lmbench
 %{_prefix}/lib/lmbench/
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 3.0-0.a9.3mdv2011.0
++ Revision: 620248
+- the mass rebuild of 2010.0 packages
+
+* Mon Sep 14 2009 Thierry Vignaud <tv@mandriva.org> 3.0-0.a9.2mdv2010.0
++ Revision: 439561
+- rebuild
+
+* Thu Jan 15 2009 Luiz Fernando Capitulino <lcapitulino@mandriva.com> 3.0-0.a9.1mdv2009.1
++ Revision: 329890
+- import lmbench
+
+
