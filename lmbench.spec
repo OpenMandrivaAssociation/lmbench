@@ -7,7 +7,7 @@ Version: 3.0
 Release: %mkrel 0.%{tar_release}.3
 Summary: Tools for Kernel Performance Analysis
 License: GPL
-URL:	 http://sourceforge.net/projects/lmbench
+URL:	 https://sourceforge.net/projects/lmbench
 Source: http://dl.sf.net/lmbench/lmbench-%{version}-%{tar_release}.tgz
 Source1: %{name}-%{version}-%{tar_release}-run.sh
 Group: Development/Kernel
